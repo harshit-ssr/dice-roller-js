@@ -1,0 +1,36 @@
+#ctn{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-top: 10px;
+}
+input{
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+
+}
+button{
+    padding: 10px, 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: hsl(195, 100%, 50%);
+    color: antiquewhite;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsl(195, 100%, 60%);
+}
+button:active{
+    background-color: hsl(195, 100%, 70%);
+}
+#resultNum{
+    margin: 25px;
+}
+#resultImg img{
+    width: 120px;
+    margin: 8px;
+}
